@@ -7,7 +7,7 @@ Then, run these commands
 
 ```bash
 $ git clone https://github.com/akumaginkou/build_scripts.git
-$ cd scripts
+$ cd build_scripts
 $ bash setup/<name of script>
 ```
 
